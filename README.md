@@ -1,5 +1,5 @@
 # project_s7j9s_v1m0l_z8z2b
-
+*NOTE: the source file of this project is copyrighted and thereby cannot be shared with the general public. For more information, please reach out to khammyschl@gmail.com
 
 **Project Summary**
 
